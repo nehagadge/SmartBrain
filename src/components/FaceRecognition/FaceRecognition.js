@@ -3,7 +3,7 @@ import './FaceRecognition.css'
 
 const FaceRecognition = () => {
     return (
-        <div className='center'>
+        <div className='center pa2'>
              <img alt='' src={'https://samples.clarifai.com/face-det.jpg'} />
         </div>
     )

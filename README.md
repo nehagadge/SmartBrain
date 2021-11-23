@@ -1,3 +1,3 @@
 Web application for detecting face in image URL using React.js, Node.js, Express.js, Postgresql, CSS.
 
-![image](https://user-images.githubusercontent.com/28638625/129642815-b974a701-0f49-48a0-ae59-eaed976971bb.png)
+![image](https://user-images.githubusercontent.com/28638625/142953322-d4ccc284-e817-4e7c-93fb-5aa033f03464.png)

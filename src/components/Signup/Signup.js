@@ -44,7 +44,7 @@ const Signup = ({ onRouteChange }) => {
                 onClick={() => onRouteChange('home')}
                 className="b ph3 input-reset b--black bg-transparent grow pointer f6 dib"
                 type="submit"
-                value="Sign in"
+                value="Sign Up"
               />
             </div>
           </div>
